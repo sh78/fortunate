@@ -1,0 +1,3 @@
+[submodule "lib/animated-gif-in-the-terminal"]
+	path = lib/animated-gif-in-the-terminal
+	url = https://github.com/sh78/animated-gif-in-the-terminal.git
